@@ -1,24 +1,24 @@
 # Colossal-AI
 <div id="top" align="center">
 
-   [![logo](https://raw.githubusercontent.com/hpcaitech/public_assets/main/colossalai/img/colossal-ai_logo_vertical.png)](https://www.colossalai.org/)
+   [![logo](https://raw.githubusercontent.com/mltrev23/public_assets/main/colossal-ai/img/colossal-ai_logo_vertical.png)](https://www.colossal-ai.org/)
 
    Colossal-AI: Making large AI models cheaper, faster, and more accessible
 
    <h3> <a href="https://arxiv.org/abs/2110.14883"> Paper </a> |
-   <a href="https://www.colossalai.org/"> Documentation </a> |
-   <a href="https://github.com/hpcaitech/ColossalAI/tree/main/examples"> Examples </a> |
-   <a href="https://github.com/hpcaitech/ColossalAI/discussions"> Forum </a> |
+   <a href="https://www.colossal-ai.org/"> Documentation </a> |
+   <a href="https://github.com/mltrev23/colossal-ai/tree/main/examples"> Examples </a> |
+   <a href="https://github.com/mltrev23/colossal-ai/discussions"> Forum </a> |
    <a href="https://cloud.luchentech.com/">GPU Cloud Playground </a> |
    <a href="https://hpc-ai.com/blog"> Blog </a></h3>
 
-   [![GitHub Repo stars](https://img.shields.io/github/stars/hpcaitech/ColossalAI?style=social)](https://github.com/hpcaitech/ColossalAI/stargazers)
-   [![Build](https://github.com/hpcaitech/ColossalAI/actions/workflows/build_on_schedule.yml/badge.svg)](https://github.com/hpcaitech/ColossalAI/actions/workflows/build_on_schedule.yml)
-   [![Documentation](https://readthedocs.org/projects/colossalai/badge/?version=latest)](https://colossalai.readthedocs.io/en/latest/?badge=latest)
-   [![CodeFactor](https://www.codefactor.io/repository/github/hpcaitech/colossalai/badge)](https://www.codefactor.io/repository/github/hpcaitech/colossalai)
+   [![GitHub Repo stars](https://img.shields.io/github/stars/mltrev23/colossal-ai?style=social)](https://github.com/mltrev23/colossal-ai/stargazers)
+   [![Build](https://github.com/mltrev23/colossal-ai/actions/workflows/build_on_schedule.yml/badge.svg)](https://github.com/mltrev23/colossal-ai/actions/workflows/build_on_schedule.yml)
+   [![Documentation](https://readthedocs.org/projects/colossal-ai/badge/?version=latest)](https://colossal-ai.readthedocs.io/en/latest/?badge=latest)
+   [![CodeFactor](https://www.codefactor.io/repository/github/mltrev23/colossal-ai/badge)](https://www.codefactor.io/repository/github/mltrev23/colossal-ai)
    [![HuggingFace badge](https://img.shields.io/badge/%F0%9F%A4%97HuggingFace-Join-yellow)](https://huggingface.co/hpcai-tech)
-   [![slack badge](https://img.shields.io/badge/Slack-join-blueviolet?logo=slack&amp)](https://github.com/hpcaitech/public_assets/tree/main/colossalai/contact/slack)
-   [![WeChat badge](https://img.shields.io/badge/微信-加入-green?logo=wechat&amp)](https://raw.githubusercontent.com/hpcaitech/public_assets/main/colossalai/img/WeChat.png)
+   [![slack badge](https://img.shields.io/badge/Slack-join-blueviolet?logo=slack&amp)](https://github.com/mltrev23/public_assets/tree/main/colossal-ai/contact/slack)
+   [![WeChat badge](https://img.shields.io/badge/微信-加入-green?logo=wechat&amp)](https://raw.githubusercontent.com/mltrev23/public_assets/main/colossal-ai/img/WeChat.png)
 
 
    | [English](README.md) | [中文](docs/README-zh-Hans.md) |
@@ -95,7 +95,7 @@
 ## Why Colossal-AI
 <div align="center">
    <a href="https://youtu.be/KnXSfjqkKN0">
-   <img src="https://raw.githubusercontent.com/hpcaitech/public_assets/main/colossalai/img/JamesDemmel_Colossal-AI.png" width="600" />
+   <img src="https://raw.githubusercontent.com/mltrev23/public_assets/main/colossal-ai/img/JamesDemmel_Colossal-AI.png" width="600" />
    </a>
 
    Prof. James Demmel (UC Berkeley): Colossal-AI makes training AI models efficient, easy, and scalable.
@@ -128,17 +128,17 @@ distributed training and inference in a few lines.
 ## Colossal-AI in the Real World
 ### Open-Sora
 
-[Open-Sora](https://github.com/hpcaitech/Open-Sora)：Revealing Complete Model Parameters, Training Details, and Everything for Sora-like Video Generation Models
-[[code]](https://github.com/hpcaitech/Open-Sora)
+[Open-Sora](https://github.com/mltrev23/Open-Sora)：Revealing Complete Model Parameters, Training Details, and Everything for Sora-like Video Generation Models
+[[code]](https://github.com/mltrev23/Open-Sora)
 [[blog]](https://hpc-ai.com/blog/open-sora-from-hpc-ai-tech-team-continues-open-source-generate-any-16-second-720p-hd-video-with-one-click-model-weights-ready-to-use)
-[[Model weights]](https://github.com/hpcaitech/Open-Sora?tab=readme-ov-file#model-weights)
-[[Demo]](https://github.com/hpcaitech/Open-Sora?tab=readme-ov-file#-latest-demo)
+[[Model weights]](https://github.com/mltrev23/Open-Sora?tab=readme-ov-file#model-weights)
+[[Demo]](https://github.com/mltrev23/Open-Sora?tab=readme-ov-file#-latest-demo)
 [[GPU Cloud Playground]](https://cloud.luchentech.com/)
 [[OpenSora Image]](https://cloud.luchentech.com/doc/docs/image/open-sora/)
 
 <div align="center">
    <a href="https://youtu.be/ilMQpU71ddI?si=J4JSPzZ03ycYmlki">
-   <img src="https://raw.githubusercontent.com/hpcaitech/public_assets/main/applications/sora/opensora-v1.2.png" width="700" />
+   <img src="https://raw.githubusercontent.com/mltrev23/public_assets/main/applications/sora/opensora-v1.2.png" width="700" />
    </a>
 </div>
 
@@ -150,16 +150,16 @@ distributed training and inference in a few lines.
 [[LLaMA3 Image]](https://cloud.luchentech.com/doc/docs/image/llama)
 
 - 7B: One half-day of training using a few hundred dollars yields similar results to mainstream large models, open-source and commercial-free domain-specific LLM solution.
-[[code]](https://github.com/hpcaitech/ColossalAI/tree/main/applications/Colossal-LLaMA-2)
+[[code]](https://github.com/mltrev23/colossal-ai/tree/main/applications/Colossal-LLaMA-2)
 [[blog]](https://www.hpc-ai.tech/blog/one-half-day-of-training-using-a-few-hundred-dollars-yields-similar-results-to-mainstream-large-models-open-source-and-commercial-free-domain-specific-llm-solution)
 [[HuggingFace model weights]](https://huggingface.co/hpcai-tech/Colossal-LLaMA-2-7b-base)
-[[Modelscope model weights]](https://www.modelscope.cn/models/colossalai/Colossal-LLaMA-2-7b-base/summary)
+[[Modelscope model weights]](https://www.modelscope.cn/models/colossal-ai/Colossal-LLaMA-2-7b-base/summary)
 
 - 13B: Construct refined 13B private model with just $5000 USD.
-[[code]](https://github.com/hpcaitech/ColossalAI/tree/main/applications/Colossal-LLaMA-2)
+[[code]](https://github.com/mltrev23/colossal-ai/tree/main/applications/Colossal-LLaMA-2)
 [[blog]](https://hpc-ai.com/blog/colossal-llama-2-13b)
 [[HuggingFace model weights]](https://huggingface.co/hpcai-tech/Colossal-LLaMA-2-13b-base)
-[[Modelscope model weights]](https://www.modelscope.cn/models/colossalai/Colossal-LLaMA-2-13b-base/summary)
+[[Modelscope model weights]](https://www.modelscope.cn/models/colossal-ai/Colossal-LLaMA-2-13b-base/summary)
 
 |              Model              |  Backbone  | Tokens Consumed |     MMLU (5-shot)    | CMMLU (5-shot)| AGIEval (5-shot) | GAOKAO (0-shot) | CEval (5-shot)  |
 | :-----------------------------: | :--------: | :-------------: | :------------------: | :-----------: | :--------------: | :-------------: | :-------------: |
@@ -187,37 +187,37 @@ distributed training and inference in a few lines.
 
 <div align="center">
    <a href="https://www.youtube.com/watch?v=HcTiHzApHm0">
-   <img src="https://raw.githubusercontent.com/hpcaitech/public_assets/main/applications/chat/ColossalChat%20YouTube.png" width="700" />
+   <img src="https://raw.githubusercontent.com/mltrev23/public_assets/main/applications/chat/ColossalChat%20YouTube.png" width="700" />
    </a>
 </div>
 
-[ColossalChat](https://github.com/hpcaitech/ColossalAI/tree/main/applications/Chat): An open-source solution for cloning [ChatGPT](https://openai.com/blog/chatgpt/) with a complete RLHF pipeline.
-[[code]](https://github.com/hpcaitech/ColossalAI/tree/main/applications/Chat)
+[ColossalChat](https://github.com/mltrev23/colossal-ai/tree/main/applications/Chat): An open-source solution for cloning [ChatGPT](https://openai.com/blog/chatgpt/) with a complete RLHF pipeline.
+[[code]](https://github.com/mltrev23/colossal-ai/tree/main/applications/Chat)
 [[blog]](https://medium.com/@yangyou_berkeley/colossalchat-an-open-source-solution-for-cloning-chatgpt-with-a-complete-rlhf-pipeline-5edf08fb538b)
 [[demo]](https://www.youtube.com/watch?v=HcTiHzApHm0)
 [[tutorial]](https://www.youtube.com/watch?v=-qFBZFmOJfg)
 
 <p id="ColossalChat-Speed" align="center">
-<img src="https://raw.githubusercontent.com/hpcaitech/public_assets/main/applications/chat/ColossalChat%20Speed.jpg" width=450/>
+<img src="https://raw.githubusercontent.com/mltrev23/public_assets/main/applications/chat/ColossalChat%20Speed.jpg" width=450/>
 </p>
 
 - Up to 10 times faster for RLHF PPO Stage3 Training
 
 <p id="ColossalChat_scaling" align="center">
-<img src="https://raw.githubusercontent.com/hpcaitech/public_assets/main/applications/chatgpt/ChatGPT%20scaling.png" width=800/>
+<img src="https://raw.githubusercontent.com/mltrev23/public_assets/main/applications/chatgpt/ChatGPT%20scaling.png" width=800/>
 </p>
 
 - Up to 7.73 times faster for single server training and 1.42 times faster for single-GPU inference
 
 <p id="ColossalChat-1GPU" align="center">
-<img src="https://raw.githubusercontent.com/hpcaitech/public_assets/main/applications/chatgpt/ChatGPT-1GPU.jpg" width=450/>
+<img src="https://raw.githubusercontent.com/mltrev23/public_assets/main/applications/chatgpt/ChatGPT-1GPU.jpg" width=450/>
 </p>
 
 - Up to 10.3x growth in model capacity on one GPU
 - A mini demo training process requires only 1.62GB of GPU memory (any consumer-grade GPU)
 
 <p id="ColossalChat-LoRA" align="center">
-<img src="https://raw.githubusercontent.com/hpcaitech/public_assets/main/applications/chatgpt/LoRA%20data.jpg" width=600/>
+<img src="https://raw.githubusercontent.com/mltrev23/public_assets/main/applications/chatgpt/LoRA%20data.jpg" width=600/>
 </p>
 
 - Increase the capacity of the fine-tuning model by up to 3.7 times on a single GPU
@@ -229,22 +229,22 @@ distributed training and inference in a few lines.
 ### AIGC
 Acceleration of AIGC (AI-Generated Content) models such as [Stable Diffusion v1](https://github.com/CompVis/stable-diffusion) and [Stable Diffusion v2](https://github.com/Stability-AI/stablediffusion).
 <p id="diffusion_train" align="center">
-<img src="https://raw.githubusercontent.com/hpcaitech/public_assets/main/colossalai/img/Stable%20Diffusion%20v2.png" width=800/>
+<img src="https://raw.githubusercontent.com/mltrev23/public_assets/main/colossal-ai/img/Stable%20Diffusion%20v2.png" width=800/>
 </p>
 
-- [Training](https://github.com/hpcaitech/ColossalAI/tree/main/examples/images/diffusion): Reduce Stable Diffusion memory consumption by up to 5.6x and hardware cost by up to 46x (from A100 to RTX3060).
+- [Training](https://github.com/mltrev23/colossal-ai/tree/main/examples/images/diffusion): Reduce Stable Diffusion memory consumption by up to 5.6x and hardware cost by up to 46x (from A100 to RTX3060).
 
 <p id="diffusion_demo" align="center">
-<img src="https://raw.githubusercontent.com/hpcaitech/public_assets/main/colossalai/img/DreamBooth.png" width=800/>
+<img src="https://raw.githubusercontent.com/mltrev23/public_assets/main/colossal-ai/img/DreamBooth.png" width=800/>
 </p>
 
-- [DreamBooth Fine-tuning](https://github.com/hpcaitech/ColossalAI/tree/main/examples/images/dreambooth): Personalize your model using just 3-5 images of the desired subject.
+- [DreamBooth Fine-tuning](https://github.com/mltrev23/colossal-ai/tree/main/examples/images/dreambooth): Personalize your model using just 3-5 images of the desired subject.
 
 <p id="inference-sd" align="center">
-<img src="https://raw.githubusercontent.com/hpcaitech/public_assets/main/colossalai/img/Stable%20Diffusion%20Inference.jpg" width=800/>
+<img src="https://raw.githubusercontent.com/mltrev23/public_assets/main/colossal-ai/img/Stable%20Diffusion%20Inference.jpg" width=800/>
 </p>
 
-- [Inference](https://github.com/hpcaitech/ColossalAI/tree/main/examples/images/diffusion): Reduce inference GPU memory consumption by 2.5x.
+- [Inference](https://github.com/mltrev23/colossal-ai/tree/main/examples/images/diffusion): Reduce inference GPU memory consumption by 2.5x.
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -253,19 +253,19 @@ Acceleration of AIGC (AI-Generated Content) models such as [Stable Diffusion v1]
 Acceleration of [AlphaFold Protein Structure](https://alphafold.ebi.ac.uk/)
 
 <p id="FastFold" align="center">
-<img src="https://raw.githubusercontent.com/hpcaitech/public_assets/main/colossalai/img/FastFold.jpg" width=800/>
+<img src="https://raw.githubusercontent.com/mltrev23/public_assets/main/colossal-ai/img/FastFold.jpg" width=800/>
 </p>
 
-- [FastFold](https://github.com/hpcaitech/FastFold): Accelerating training and inference on GPU Clusters, faster data processing, inference sequence containing more than 10000 residues.
+- [FastFold](https://github.com/mltrev23/FastFold): Accelerating training and inference on GPU Clusters, faster data processing, inference sequence containing more than 10000 residues.
 
 <p id="FastFold-Intel" align="center">
-<img src="https://raw.githubusercontent.com/hpcaitech/public_assets/main/colossalai/img/data%20preprocessing%20with%20Intel.jpg" width=600/>
+<img src="https://raw.githubusercontent.com/mltrev23/public_assets/main/colossal-ai/img/data%20preprocessing%20with%20Intel.jpg" width=600/>
 </p>
 
-- [FastFold with Intel](https://github.com/hpcaitech/FastFold): 3x inference acceleration and 39% cost reduce.
+- [FastFold with Intel](https://github.com/mltrev23/FastFold): 3x inference acceleration and 39% cost reduce.
 
 <p id="xTrimoMultimer" align="center">
-<img src="https://raw.githubusercontent.com/hpcaitech/public_assets/main/colossalai/img/xTrimoMultimer_Table.jpg" width=800/>
+<img src="https://raw.githubusercontent.com/mltrev23/public_assets/main/colossal-ai/img/xTrimoMultimer_Table.jpg" width=800/>
 </p>
 
 - [xTrimoMultimer](https://github.com/biomap-research/xTrimoMultimer): accelerating structure prediction of protein monomers and multimer by 11x.
@@ -276,82 +276,82 @@ Acceleration of [AlphaFold Protein Structure](https://alphafold.ebi.ac.uk/)
 ## Parallel Training Demo
 ### LLaMA3
 <p align="center">
-<img src="https://raw.githubusercontent.com/hpcaitech/public_assets/main/examples/images/LLaMA3-70B-H100.png" width=600/>
+<img src="https://raw.githubusercontent.com/mltrev23/public_assets/main/examples/images/LLaMA3-70B-H100.png" width=600/>
 </p>
 
 - 70 billion parameter LLaMA3 model training accelerated by 18%
-[[code]](https://github.com/hpcaitech/ColossalAI/tree/main/examples/language/llama)
+[[code]](https://github.com/mltrev23/colossal-ai/tree/main/examples/language/llama)
 [[GPU Cloud Playground]](https://cloud.luchentech.com/)
 [[LLaMA3 Image]](https://cloud.luchentech.com/doc/docs/image/llama)
 
 ### LLaMA2
 <p align="center">
-<img src="https://raw.githubusercontent.com/hpcaitech/public_assets/main/colossalai/img/llama2_pretraining.png" width=600/>
+<img src="https://raw.githubusercontent.com/mltrev23/public_assets/main/colossal-ai/img/llama2_pretraining.png" width=600/>
 </p>
 
 - 70 billion parameter LLaMA2 model training accelerated by 195%
-[[code]](https://github.com/hpcaitech/ColossalAI/tree/main/examples/language/llama)
+[[code]](https://github.com/mltrev23/colossal-ai/tree/main/examples/language/llama)
 [[blog]](https://www.hpc-ai.tech/blog/70b-llama2-training)
 
 ### LLaMA1
 <p align="center">
-<img src="https://raw.githubusercontent.com/hpcaitech/public_assets/main/examples/images/LLaMA_pretraining.png" width=600/>
+<img src="https://raw.githubusercontent.com/mltrev23/public_assets/main/examples/images/LLaMA_pretraining.png" width=600/>
 </p>
 
 - 65-billion-parameter large model pretraining accelerated by 38%
-[[code]](https://github.com/hpcaitech/ColossalAI/tree/main/examples/language/llama)
+[[code]](https://github.com/mltrev23/colossal-ai/tree/main/examples/language/llama)
 [[blog]](https://www.hpc-ai.tech/blog/large-model-pretraining)
 
 ### MoE
 <p align="center">
-<img src="https://raw.githubusercontent.com/hpcaitech/public_assets/main/examples/images/MOE_training.png" width=800/>
+<img src="https://raw.githubusercontent.com/mltrev23/public_assets/main/examples/images/MOE_training.png" width=800/>
 </p>
 
 - Enhanced MoE parallelism, Open-source MoE model training can be 9 times more efficient
-[[code]](https://github.com/hpcaitech/ColossalAI/tree/main/examples/language/openmoe)
+[[code]](https://github.com/mltrev23/colossal-ai/tree/main/examples/language/openmoe)
 [[blog]](https://www.hpc-ai.tech/blog/enhanced-moe-parallelism-open-source-moe-model-training-can-be-9-times-more-efficient)
 
 ### GPT-3
 <p align="center">
-<img src="https://raw.githubusercontent.com/hpcaitech/public_assets/main/colossalai/img/GPT3-v5.png" width=700/>
+<img src="https://raw.githubusercontent.com/mltrev23/public_assets/main/colossal-ai/img/GPT3-v5.png" width=700/>
 </p>
 
 - Save 50% GPU resources and 10.7% acceleration
 
 ### GPT-2
-<img src="https://raw.githubusercontent.com/hpcaitech/public_assets/main/colossalai/img/GPT2.png" width=800/>
+<img src="https://raw.githubusercontent.com/mltrev23/public_assets/main/colossal-ai/img/GPT2.png" width=800/>
 
 - 11x lower GPU memory consumption, and superlinear scaling efficiency with Tensor Parallelism
 
-<img src="https://raw.githubusercontent.com/hpcaitech/public_assets/main/colossalai/img/(updated)GPT-2.png" width=800>
+<img src="https://raw.githubusercontent.com/mltrev23/public_assets/main/colossal-ai/img/(updated)GPT-2.png" width=800>
 
 - 24x larger model size on the same hardware
 - over 3x acceleration
 ### BERT
-<img src="https://raw.githubusercontent.com/hpcaitech/public_assets/main/colossalai/img/BERT.png" width=800/>
+<img src="https://raw.githubusercontent.com/mltrev23/public_assets/main/colossal-ai/img/BERT.png" width=800/>
 
 - 2x faster training, or 50% longer sequence length
 
 ### PaLM
-- [PaLM-colossalai](https://github.com/hpcaitech/PaLM-colossalai): Scalable implementation of Google's Pathways Language Model ([PaLM](https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html)).
+- [PaLM-colossal-ai](https://github.com/mltrev23/PaLM-colossal-ai): Scalable implementation of Google's Pathways Language Model ([PaLM](https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html)).
 
 ### OPT
-<img src="https://raw.githubusercontent.com/hpcaitech/public_assets/main/colossalai/img/OPT_update.png" width=800/>
+<img src="https://raw.githubusercontent.com/mltrev23/public_assets/main/colossal-ai/img/OPT_update.png" width=800/>
 
 - [Open Pretrained Transformer (OPT)](https://github.com/facebookresearch/metaseq), a 175-Billion parameter AI language model released by Meta, which stimulates AI programmers to perform various downstream tasks and application deployments because of public pre-trained model weights.
-- 45% speedup fine-tuning OPT at low cost in lines. [[Example]](https://github.com/hpcaitech/ColossalAI/tree/main/examples/language/opt) [[Online Serving]](https://colossalai.org/docs/advanced_tutorials/opt_service)
+- 45% speedup fine-tuning OPT at low cost in lines. [[Example]](https://github.com/mltrev23/colossal-ai/tree/main/examples/language/opt) [[Online Serving]](https://colossal-ai.org/docs/advanced_tutorials/opt_service)
 
-Please visit our [documentation](https://www.colossalai.org/) and [examples](https://github.com/hpcaitech/ColossalAI/tree/main/examples) for more details.
+Please visit our [documentation](https://www.colossal-ai.org/) and [examples](https://github.com/mltrev23/colossal-ai/tree/main/examples) for more details.
 
 ### ViT
 <p align="center">
-<img src="https://raw.githubusercontent.com/hpcaitech/public_assets/main/colossalai/img/ViT.png" width="450" />
+<img src="https://raw.githubusercontent.com/mltrev23/public_assets/main/colossal-ai/img/ViT.png" width="450" />
 </p>
 
 - 14x larger batch size, and 5x faster training for Tensor Parallelism = 64
 
 ### Recommendation System Models
-- [Cached Embedding](https://github.com/hpcaitech/CachedEmbedding), utilize software cache to train larger embedding tables with a smaller GPU memory budget.
+- [Cached Embedding](https://github.com/mltrev23/CachedEmbedding), utilize software cache to train larger embedding tables with a smaller GPU memory budget.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -359,20 +359,20 @@ Please visit our [documentation](https://www.colossalai.org/) and [examples](htt
 
 ### GPT-2
 <p id="GPT-2-Single" align="center">
-<img src="https://raw.githubusercontent.com/hpcaitech/public_assets/main/colossalai/img/GPT2-GPU1.png" width=450/>
+<img src="https://raw.githubusercontent.com/mltrev23/public_assets/main/colossal-ai/img/GPT2-GPU1.png" width=450/>
 </p>
 
 - 20x larger model size on the same hardware
 
 <p id="GPT-2-NVME" align="center">
-<img src="https://raw.githubusercontent.com/hpcaitech/public_assets/main/colossalai/img/GPT2-NVME.png" width=800/>
+<img src="https://raw.githubusercontent.com/mltrev23/public_assets/main/colossal-ai/img/GPT2-NVME.png" width=800/>
 </p>
 
 - 120x larger model size on the same hardware (RTX 3080)
 
 ### PaLM
 <p id="PaLM-Single" align="center">
-<img src="https://raw.githubusercontent.com/hpcaitech/public_assets/main/colossalai/img/PaLM-GPU1.png" width=450/>
+<img src="https://raw.githubusercontent.com/mltrev23/public_assets/main/colossal-ai/img/PaLM-GPU1.png" width=450/>
 </p>
 
 - 34x larger model size on the same hardware
@@ -383,37 +383,37 @@ Please visit our [documentation](https://www.colossalai.org/) and [examples](htt
 ## Inference
 ### Colossal-Inference
 <p align="center">
-<img src="https://raw.githubusercontent.com/hpcaitech/public_assets/main/colossalai/img/inference/colossal-inference-v1-1.png" width=1000/>
+<img src="https://raw.githubusercontent.com/mltrev23/public_assets/main/colossal-ai/img/inference/colossal-inference-v1-1.png" width=1000/>
 </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/hpcaitech/public_assets/main/colossalai/img/inference/colossal-inference-v1-2.png" width=1000/>
+<img src="https://raw.githubusercontent.com/mltrev23/public_assets/main/colossal-ai/img/inference/colossal-inference-v1-2.png" width=1000/>
 </p>
 
  - Large AI models inference speed doubled, compared to the offline inference performance of vLLM in some cases.
-[[code]](https://github.com/hpcaitech/ColossalAI/tree/main/colossalai/inference)
+[[code]](https://github.com/mltrev23/colossal-ai/tree/main/colossal-ai/inference)
 [[blog]](https://hpc-ai.com/blog/colossal-inference)
 [[GPU Cloud Playground]](https://cloud.luchentech.com/)
 [[LLaMA3 Image]](https://cloud.luchentech.com/doc/docs/image/llama)
 
 ### Grok-1
 <p id="Grok-1" align="center">
-<img src="https://raw.githubusercontent.com/hpcaitech/public_assets/main/examples/images/grok-1-inference.jpg" width=600/>
+<img src="https://raw.githubusercontent.com/mltrev23/public_assets/main/examples/images/grok-1-inference.jpg" width=600/>
 </p>
 
  - 314 Billion Parameter Grok-1 Inference Accelerated by 3.8x, an easy-to-use Python + PyTorch + HuggingFace version for Inference.
 
-[[code]](https://github.com/hpcaitech/ColossalAI/tree/main/examples/language/grok-1)
+[[code]](https://github.com/mltrev23/colossal-ai/tree/main/examples/language/grok-1)
 [[blog]](https://hpc-ai.com/blog/314-billion-parameter-grok-1-inference-accelerated-by-3.8x-efficient-and-easy-to-use-pytorchhuggingface-version-is-here)
 [[HuggingFace Grok-1 PyTorch model weights]](https://huggingface.co/hpcai-tech/grok-1)
-[[ModelScope Grok-1 PyTorch model weights]](https://www.modelscope.cn/models/colossalai/grok-1-pytorch/summary)
+[[ModelScope Grok-1 PyTorch model weights]](https://www.modelscope.cn/models/colossal-ai/grok-1-pytorch/summary)
 
 ### SwiftInfer
 <p id="SwiftInfer" align="center">
-<img src="https://raw.githubusercontent.com/hpcaitech/public_assets/main/colossalai/img/SwiftInfer.jpg" width=800/>
+<img src="https://raw.githubusercontent.com/mltrev23/public_assets/main/colossal-ai/img/SwiftInfer.jpg" width=800/>
 </p>
 
-- [SwiftInfer](https://github.com/hpcaitech/SwiftInfer): Inference performance improved by 46%, open source solution breaks the length limit of LLM for multi-round conversations
+- [SwiftInfer](https://github.com/mltrev23/SwiftInfer): Inference performance improved by 46%, open source solution breaks the length limit of LLM for multi-round conversations
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -426,14 +426,14 @@ Requirements:
 - [NVIDIA GPU Compute Capability](https://developer.nvidia.com/cuda-gpus) >= 7.0 (V100/RTX20 and higher)
 - Linux OS
 
-If you encounter any problem with installation, you may want to raise an [issue](https://github.com/hpcaitech/ColossalAI/issues/new/choose) in this repository.
+If you encounter any problem with installation, you may want to raise an [issue](https://github.com/mltrev23/colossal-ai/issues/new/choose) in this repository.
 
 ### Install from PyPI
 
 You can easily install Colossal-AI with the following command. **By default, we do not build PyTorch extensions during installation.**
 
 ```bash
-pip install colossalai
+pip install colossal-ai
 ```
 
 **Note: only Linux is supported for now.**
@@ -441,7 +441,7 @@ pip install colossalai
 However, if you want to build the PyTorch extensions during installation, you can set `BUILD_EXT=1`.
 
 ```bash
-BUILD_EXT=1 pip install colossalai
+BUILD_EXT=1 pip install colossal-ai
 ```
 
 **Otherwise, CUDA kernels will be built during runtime when you actually need them.**
@@ -450,7 +450,7 @@ We also keep releasing the nightly version to PyPI every week. This allows you t
 Installation can be made via
 
 ```bash
-pip install colossalai-nightly
+pip install colossal-ai-nightly
 ```
 
 ### Download From Source
@@ -458,31 +458,31 @@ pip install colossalai-nightly
 > The version of Colossal-AI will be in line with the main branch of the repository. Feel free to raise an issue if you encounter any problems. :)
 
 ```shell
-git clone https://github.com/hpcaitech/ColossalAI.git
-cd ColossalAI
+git clone https://github.com/mltrev23/colossal-ai.git
+cd colossal-ai
 
-# install colossalai
+# install colossal-ai
 pip install .
 ```
 
-By default, we do not compile CUDA/C++ kernels. ColossalAI will build them during runtime.
+By default, we do not compile CUDA/C++ kernels. colossal-ai will build them during runtime.
 If you want to install and enable CUDA kernel fusion (compulsory installation when using fused optimizer):
 
 ```shell
 BUILD_EXT=1 pip install .
 ```
 
-For Users with CUDA 10.2, you can still build ColossalAI from source. However, you need to manually download the cub library and copy it to the corresponding directory.
+For Users with CUDA 10.2, you can still build colossal-ai from source. However, you need to manually download the cub library and copy it to the corresponding directory.
 
 ```bash
 # clone the repository
-git clone https://github.com/hpcaitech/ColossalAI.git
-cd ColossalAI
+git clone https://github.com/mltrev23/colossal-ai.git
+cd colossal-ai
 
 # download the cub library
 wget https://github.com/NVIDIA/cub/archive/refs/tags/1.8.0.zip
 unzip 1.8.0.zip
-cp -r cub-1.8.0/cub/ colossalai/kernel/cuda_native/csrc/kernels/include/
+cp -r cub-1.8.0/cub/ colossal-ai/kernel/cuda_native/csrc/kernels/include/
 
 # install
 BUILD_EXT=1 pip install .
@@ -494,7 +494,7 @@ BUILD_EXT=1 pip install .
 
 ### Pull from DockerHub
 
-You can directly pull the docker image from our [DockerHub page](https://hub.docker.com/r/hpcaitech/colossalai). The image is automatically uploaded upon release.
+You can directly pull the docker image from our [DockerHub page](https://hub.docker.com/r/mltrev23/colossal-ai). The image is automatically uploaded upon release.
 
 
 ### Build On Your Own
@@ -502,45 +502,27 @@ You can directly pull the docker image from our [DockerHub page](https://hub.doc
 Run the following command to build a docker image from Dockerfile provided.
 
 > Building Colossal-AI from scratch requires GPU support, you need to use Nvidia Docker Runtime as the default when doing `docker build`. More details can be found [here](https://stackoverflow.com/questions/59691207/docker-build-with-nvidia-runtime).
-> We recommend you install Colossal-AI from our [project page](https://www.colossalai.org) directly.
+> We recommend you install Colossal-AI from our [project page](https://www.colossal-ai.org) directly.
 
 
 ```bash
-cd ColossalAI
-docker build -t colossalai ./docker
+cd colossal-ai
+docker build -t colossal-ai ./docker
 ```
 
 Run the following command to start the docker container in interactive mode.
 
 ```bash
-docker run -ti --gpus all --rm --ipc=host colossalai bash
+docker run -ti --gpus all --rm --ipc=host colossal-ai bash
 ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Community
 
-Join the Colossal-AI community on [Forum](https://github.com/hpcaitech/ColossalAI/discussions),
-[Slack](https://join.slack.com/t/colossalaiworkspace/shared_invite/zt-z7b26eeb-CBp7jouvu~r0~lcFzX832w),
-and [WeChat(微信)](https://raw.githubusercontent.com/hpcaitech/public_assets/main/colossalai/img/WeChat.png "qrcode") to share your suggestions, feedback, and questions with our engineering team.
-
-## Contributing
-Referring to the successful attempts of [BLOOM](https://bigscience.huggingface.co/) and [Stable Diffusion](https://en.wikipedia.org/wiki/Stable_Diffusion), any and all developers and partners with computing powers, datasets, models are welcome to join and build the Colossal-AI community, making efforts towards the era of big AI models!
-
-You may contact us or participate in the following ways:
-1. [Leaving a Star ⭐](https://github.com/hpcaitech/ColossalAI/stargazers) to show your like and support. Thanks!
-2. Posting an [issue](https://github.com/hpcaitech/ColossalAI/issues/new/choose), or submitting a PR on GitHub follow the guideline in [Contributing](https://github.com/hpcaitech/ColossalAI/blob/main/CONTRIBUTING.md)
-3. Send your official proposal to email contact@hpcaitech.com
-
-Thanks so much to all of our amazing contributors!
-
-<a href="https://github.com/hpcaitech/ColossalAI/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=hpcaitech/ColossalAI"  width="800px"/>
-</a>
-
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
+Join the Colossal-AI community on [Forum](https://github.com/mltrev23/colossal-ai/discussions),
+[Slack](https://join.slack.com/t/colossal-aiworkspace/shared_invite/zt-z7b26eeb-CBp7jouvu~r0~lcFzX832w),
+and [WeChat(微信)](https://raw.githubusercontent.com/mltrev23/public_assets/main/colossal-ai/img/WeChat.png "qrcode") to share your suggestions, feedback, and questions with our engineering team.
 
 ## CI/CD
 
