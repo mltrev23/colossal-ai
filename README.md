@@ -336,7 +336,7 @@ Acceleration of [AlphaFold Protein Structure](https://alphafold.ebi.ac.uk/)
 - [PaLM-colossal-ai](https://github.com/mltrev23/PaLM-colossal-ai): Scalable implementation of Google's Pathways Language Model ([PaLM](https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html)).
 
 ### OPT
-<img src="https://raw.githubusercontent.com/mltrev23/public_assets/main/colossal-ai/img/OPT_update.png" width=800/>
+<img src="https://raw.githubusercontent.com/hpcaitech/public_assets/main/colossalai/img/OPT_update.png" width=800/>
 
 - [Open Pretrained Transformer (OPT)](https://github.com/facebookresearch/metaseq), a 175-Billion parameter AI language model released by Meta, which stimulates AI programmers to perform various downstream tasks and application deployments because of public pre-trained model weights.
 - 45% speedup fine-tuning OPT at low cost in lines. [[Example]](https://github.com/mltrev23/colossal-ai/tree/main/examples/language/opt) [[Online Serving]](https://colossal-ai.org/docs/advanced_tutorials/opt_service)
@@ -345,7 +345,7 @@ Please visit our [documentation](https://www.colossal-ai.org/) and [examples](ht
 
 ### ViT
 <p align="center">
-<img src="https://raw.githubusercontent.com/mltrev23/public_assets/main/colossal-ai/img/ViT.png" width="450" />
+<img src="https://raw.githubusercontent.com/hpcaitech/public_assets/main/colossalai/img/ViT.png" width="450" />
 </p>
 
 - 14x larger batch size, and 5x faster training for Tensor Parallelism = 64
@@ -359,20 +359,20 @@ Please visit our [documentation](https://www.colossal-ai.org/) and [examples](ht
 
 ### GPT-2
 <p id="GPT-2-Single" align="center">
-<img src="https://raw.githubusercontent.com/mltrev23/public_assets/main/colossal-ai/img/GPT2-GPU1.png" width=450/>
+<img src="https://raw.githubusercontent.com/hpcaitech/public_assets/main/colossalai/img/GPT2-GPU1.png" width=450/>
 </p>
 
 - 20x larger model size on the same hardware
 
 <p id="GPT-2-NVME" align="center">
-<img src="https://raw.githubusercontent.com/mltrev23/public_assets/main/colossal-ai/img/GPT2-NVME.png" width=800/>
+<img src="https://raw.githubusercontent.com/hpcaitech/public_assets/main/colossalai/img/GPT2-NVME.png" width=800/>
 </p>
 
 - 120x larger model size on the same hardware (RTX 3080)
 
 ### PaLM
 <p id="PaLM-Single" align="center">
-<img src="https://raw.githubusercontent.com/mltrev23/public_assets/main/colossal-ai/img/PaLM-GPU1.png" width=450/>
+<img src="https://raw.githubusercontent.com/hpcaitech/public_assets/main/colossalai/img/PaLM-GPU1.png" width=450/>
 </p>
 
 - 34x larger model size on the same hardware
@@ -383,11 +383,11 @@ Please visit our [documentation](https://www.colossal-ai.org/) and [examples](ht
 ## Inference
 ### Colossal-Inference
 <p align="center">
-<img src="https://raw.githubusercontent.com/mltrev23/public_assets/main/colossal-ai/img/inference/colossal-inference-v1-1.png" width=1000/>
+<img src="https://raw.githubusercontent.com/hpcaitech/public_assets/main/colossalai/img/inference/colossal-inference-v1-1.png" width=1000/>
 </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/mltrev23/public_assets/main/colossal-ai/img/inference/colossal-inference-v1-2.png" width=1000/>
+<img src="https://raw.githubusercontent.com/hpcaitech/public_assets/main/colossalai/img/inference/colossal-inference-v1-2.png" width=1000/>
 </p>
 
  - Large AI models inference speed doubled, compared to the offline inference performance of vLLM in some cases.
@@ -398,7 +398,7 @@ Please visit our [documentation](https://www.colossal-ai.org/) and [examples](ht
 
 ### Grok-1
 <p id="Grok-1" align="center">
-<img src="https://raw.githubusercontent.com/mltrev23/public_assets/main/examples/images/grok-1-inference.jpg" width=600/>
+<img src="https://raw.githubusercontent.com/hpcaitech/public_assets/main/examples/images/grok-1-inference.jpg" width=600/>
 </p>
 
  - 314 Billion Parameter Grok-1 Inference Accelerated by 3.8x, an easy-to-use Python + PyTorch + HuggingFace version for Inference.
@@ -410,7 +410,7 @@ Please visit our [documentation](https://www.colossal-ai.org/) and [examples](ht
 
 ### SwiftInfer
 <p id="SwiftInfer" align="center">
-<img src="https://raw.githubusercontent.com/mltrev23/public_assets/main/colossal-ai/img/SwiftInfer.jpg" width=800/>
+<img src="https://raw.githubusercontent.com/hpcaitech/public_assets/main/colossalai/img/SwiftInfer.jpg" width=800/>
 </p>
 
 - [SwiftInfer](https://github.com/mltrev23/SwiftInfer): Inference performance improved by 46%, open source solution breaks the length limit of LLM for multi-round conversations
